@@ -24,7 +24,7 @@ class Menu extends Component {
           name: "Ethereum",
           image: "assets/images/ethereum.png",
           price: "80",
-          description: "crypto asset ment to disrupt financial world"
+          description: "crypto asset ment to disrupt financial worldcrypto asset ment to disrupt financial worldcrypto asset ment to disrupt financial world"
         }
       ]
     };
