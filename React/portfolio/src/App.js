@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <div className="">
         <Navbar dark color="dark">
-          <NavbarBrand href="">Hello</NavbarBrand>
+          <NavbarBrand href="">Cryptofolio</NavbarBrand>
         </Navbar>
         <Menu />
       </div>
